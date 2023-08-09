@@ -65,15 +65,15 @@ so, ***31579*** is the port in which serrvices are listening
 
 ![3](https://github.com/sarthaksarthak9/go-project/assets/122533767/6737800b-ec63-4bea-ba79-f2a5b64ad1d4)
 
-<p>
-To have the details type ***localhost/31579/details*** on your browser
+
+To have the details type ***minikube/31579/health*** on your browser
 
 ![4](https://github.com/sarthaksarthak9/go-project/assets/122533767/49f0ae4c-e4b5-43ad-a5f3-926366bd8ca1)
 
-</p>
 
 
-To have the health information type ***localhost/31579/health*** on your browser
+
+To have the health information type ***minikube/31579/health*** on your browser
 
 ![5](https://github.com/sarthaksarthak9/go-project/assets/122533767/8c6aab47-e83d-477e-aec2-a53f47e10859)
 
