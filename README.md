@@ -30,12 +30,19 @@ go build main.go
 ./main.exe
 ```
 
+// To check everything working fine
+
 3. Run docker-compose file
 
 ```
 docker-compose build
-docker-compose up -d
+docker-compose up -d // to run the container
+docker-compose ps // to check the status of the containers
+docker-compose down // stop and remove the containers 
 ```
+
+4. 
+
 
 
 
