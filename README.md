@@ -51,9 +51,10 @@ kubectl get po, svc // it will list down all pods and services running
 ![2](https://github.com/sarthaksarthak9/go-project/assets/122533767/ee7549ec-24ad-4671-a841-e81436098ce9)
 
 so, ***31579*** is the port in which serrvices are listening 
-
+<p>
 To have the details type ***localhost/31579/details*** on your browser
-To have the health infor type ***localhost/31579/health*** on your browser
+</p>
+To have the health information type ***localhost/31579/health*** on your browser
 
 
 
