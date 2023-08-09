@@ -29,6 +29,7 @@ cd go-project
 go build main.go
 ./main.exe
 ```
+![1](https://github.com/sarthaksarthak9/go-project/assets/122533767/3a559c83-6bed-46f4-a87f-9faa664f936f)
 
 // To check everything working fine
 
@@ -47,6 +48,7 @@ helm template go-app/ // to check the template
 helm install web go-app/ // to install the chart in go-app directory
 kubectl get po, svc // it will list down all pods and services running
 ```
+![2](https://github.com/sarthaksarthak9/go-project/assets/122533767/ee7549ec-24ad-4671-a841-e81436098ce9)
 
 so, ***31579*** is the port in which serrvices are listening 
 
