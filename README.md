@@ -29,7 +29,8 @@ cd go-project
 go build main.go
 ./main.exe
 ```
-![6](https://github.com/sarthaksarthak9/go-project/assets/122533767/af3c4bee-fd95-4a88-aed4-a12178b3ab7f)
+![1](https://github.com/sarthaksarthak9/go-project/assets/122533767/b0d9c721-d1f6-4fe7-a051-d8d52cd48d3a)
+
 
 
 // To check everything working fine
@@ -48,7 +49,8 @@ docker-compose down // stop and remove the containers
 minikube ip
 ```
 
-![6](https://github.com/sarthaksarthak9/go-project/assets/122533767/61315607-32ae-4347-badd-e02f9538e633)
+![6](https://github.com/sarthaksarthak9/go-project/assets/122533767/75e30877-6a59-4d29-808b-bddf05cab6d3)
+
 
 
 6. Helm
