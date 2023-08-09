@@ -41,7 +41,17 @@ docker-compose ps // to check the status of the containers
 docker-compose down // stop and remove the containers 
 ```
 
-4. 
+4. Helm
+```
+helm template go-app/ // to check the template
+helm install web go-app/ // to install the chart in go-app directory
+kubectl get po, svc // it will list down all pods and services running
+```
+
+so, ***31579*** is the port in which serrvices are listening 
+
+To have the details type ***localhost/31579/details*** on your browser
+To have the health infor type ***localhost/31579/health*** on your browser
 
 
 
