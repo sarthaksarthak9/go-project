@@ -29,7 +29,7 @@ cd go-project
 go build main.go
 ./main.exe
 ```
-![1](https://github.com/sarthaksarthak9/go-project/assets/122533767/3a559c83-6bed-46f4-a87f-9faa664f936f)
+![6](https://github.com/sarthaksarthak9/go-project/assets/122533767/af3c4bee-fd95-4a88-aed4-a12178b3ab7f)
 
 
 // To check everything working fine
