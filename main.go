@@ -13,12 +13,12 @@ import (
 
 func healthHandler(w http.ResponseWriter, r *http.Request) {
 	log.Println("Checking application health")
-    response := map[string]string{
-        "status" : "up",
-        
-        "timestamp" : time.Now().String(),
-    }
-    json.NewEncoder(w).Encode(response)
+        response := map[string]string{
+	    "status" : "up",
+	        
+	    "timestamp" : time.Now().String(),
+    	}
+        json.NewEncoder(w).Encode(response)
 }
 
 func rootHandler(w http.ResponseWriter, r *http.Request) {
